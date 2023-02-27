@@ -1,0 +1,35 @@
+body{
+    background-color: #FFFFFF;
+    font-size: 16px;
+}
+
+#logo{
+    width: 351;
+    height: 113;
+}
+
+table{
+    border: 0;
+    width: 90%;
+}
+
+td.first{
+    background-color: #eeeeee;
+}
+
+td.second{
+    background-color: #7EE5DA;
+    width: 37%;
+}
+
+td.third{
+    background-color: #70CCC2;
+}
+
+td.fourth{
+    background-color: #62B3AA;
+}
+
+.fs-12{
+    font-size: 12px;
+}
